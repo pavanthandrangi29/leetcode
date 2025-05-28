@@ -17,3 +17,15 @@ This repo is automatically updated whenever I submit a problem on LeetCode using
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pavanthandrangi29/leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pavanthandrangi29/leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
