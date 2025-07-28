@@ -28,4 +28,8 @@ This repo is automatically updated whenever I submit a problem on LeetCode using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pavanthandrangi29/leetcode/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/pavanthandrangi29/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
