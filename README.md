@@ -40,6 +40,7 @@ This repo is automatically updated whenever I submit a problem on LeetCode using
 | [1153-product-sales-analysis-i](https://github.com/pavanthandrangi29/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/pavanthandrangi29/leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/pavanthandrangi29/leetcode/tree/master/1161-project-employees-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/pavanthandrangi29/leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/pavanthandrangi29/leetcode/tree/master/1258-article-views-i) |
 | [1317-monthly-transactions-i](https://github.com/pavanthandrangi29/leetcode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/pavanthandrangi29/leetcode/tree/master/1338-queries-quality-and-percentage) |
