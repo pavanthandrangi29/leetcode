@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT DISTINCT T1.num as ConsecutiveNums
 FROM Logs T1,Logs T2,Logs T3
 where
