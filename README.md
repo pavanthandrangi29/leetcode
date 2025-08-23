@@ -87,4 +87,5 @@ This repo is automatically updated whenever I submit a problem on LeetCode using
 | [2087-confirmation-rate](https://github.com/pavanthandrangi29/leetcode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/pavanthandrangi29/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pavanthandrangi29/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [3792-find-invalid-ip-addresses](https://github.com/pavanthandrangi29/leetcode/tree/master/3792-find-invalid-ip-addresses) |
 <!---LeetCode Topics End-->
