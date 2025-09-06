@@ -94,6 +94,7 @@ This repo is automatically updated whenever I submit a problem on LeetCode using
 | [1827-invalid-tweets](https://github.com/pavanthandrangi29/leetcode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/pavanthandrangi29/leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/pavanthandrangi29/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/pavanthandrangi29/leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/pavanthandrangi29/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/pavanthandrangi29/leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/pavanthandrangi29/leetcode/tree/master/2057-count-salary-categories) |
